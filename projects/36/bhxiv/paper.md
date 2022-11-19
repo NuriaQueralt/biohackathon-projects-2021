@@ -50,7 +50,7 @@ authors:
   - name: Anastasios Siapos
     orcid: 0000-0001-6753-6764
     affiliation: 11
-  - name: Vasoundra Touré
+  - name: Vasundra Touré
     orcid: 0000-0003-4639-4431
     affiliation: 12
   - name: Danielle Welter
