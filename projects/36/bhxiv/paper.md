@@ -75,14 +75,12 @@ affiliations:
     index: 8   
   - name: Genomic Medicine, The Jackson Laboratory, Farmington, CT, USA
     index: 9
-  - name:
+  - name: Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Esch-sur-Alzette, Luxembourg
     index: 10
   - name: Lifebit Biotech Ltd, London, UK
     index: 11
   - name: Personalized Health Informatics Group, SIB Swiss Institute of Bioinformatics, Basel, Switzerland
     index: 12
-  - name: Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Esch-sur-Alzette, Luxembourg
-    index: 13
 date: 11 November 2021
 cito-bibliography: paper.bib
 event: BioHackEU21
