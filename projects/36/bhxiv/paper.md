@@ -55,7 +55,7 @@ authors:
     affiliation: 12
   - name: Danielle Welter
     orcid: 0000-0003-1058-2668
-    affiliation: 13
+    affiliation: 10
 affiliations:
   - name: Human Genetics, Leiden University Medical Center, Leiden, Netherlands
     index: 1
